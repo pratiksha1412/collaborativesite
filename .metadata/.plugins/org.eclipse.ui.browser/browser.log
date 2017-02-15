@@ -1,0 +1,148 @@
+
+Feb 15, 2017 03:37:22.81 NEW SESSION
+Feb 15, 2017 03:37:22.81 console.warn: LoginHelper: dedupeLogins: Deduping with a scheme preference but couldn't get the preferred origin scheme.
+
+Feb 15, 2017 14:15:30.65 NEW SESSION
+Feb 15, 2017 14:15:30.65 console.warn: LoginHelper: dedupeLogins: Deduping with a scheme preference but couldn't get the preferred origin scheme.
+
+Feb 15, 2017 14:32:30.45 NEW SESSION
+Feb 15, 2017 14:32:30.45 console.warn: LoginHelper: dedupeLogins: Deduping with a scheme preference but couldn't get the preferred origin scheme.
+Feb 15, 2017 14:35:51.27 console.warn: LoginHelper: dedupeLogins: Deduping with a scheme preference but couldn't get the preferred origin scheme.
+Feb 15, 2017 15:05:25.86 console.warn: LoginHelper: dedupeLogins: Deduping with a scheme preference but couldn't get the preferred origin scheme.
+Feb 15, 2017 15:30:52.36 console.warn: LoginHelper: dedupeLogins: Deduping with a scheme preference but couldn't get the preferred origin scheme.
+Feb 15, 2017 16:01:01.73 console.error: 
+Feb 15, 2017 16:01:01.73   Message: Error: Failed to fetch https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css.map. Code 2152398878.
+Feb 15, 2017 16:01:01.73   Stack:
+Feb 15, 2017 16:01:01.73     mainThreadFetch/onResponse@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:436:23
+Feb 15, 2017 16:01:01.73 NetUtil_asyncFetch/<.onStopRequest@resource://gre/modules/NetUtil.jsm:128:17
+Feb 15, 2017 16:01:01.73 
+Feb 15, 2017 16:01:01.73 mainThreadFetch/onResponse@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:436:23
+Feb 15, 2017 16:01:01.73 NetUtil_asyncFetch/<.onStopRequest@resource://gre/modules/NetUtil.jsm:128:17
+Feb 15, 2017 16:01:01.82 *************************
+Feb 15, 2017 16:01:01.82 A coding exception was thrown in a Promise resolution callback.
+Feb 15, 2017 16:01:01.82 See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+Feb 15, 2017 16:01:01.82 
+Feb 15, 2017 16:01:01.82 Full message: TypeError: inspector.selection is undefined
+Feb 15, 2017 16:01:01.82 Full stack: nsContextMenu.prototype.inspectNode/<@chrome://browser/content/nsContextMenu.js:574:11
+Feb 15, 2017 16:01:01.82 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+Feb 15, 2017 16:01:01.82 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+Feb 15, 2017 16:01:01.82 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Feb 15, 2017 16:01:01.82 
+Feb 15, 2017 16:01:01.82 *************************
+Feb 15, 2017 16:01:02.19 console.error: 
+Feb 15, 2017 16:01:02.19   Protocol error (unknownError): Failed to fetch https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css.map. Code 2152398878.
+Feb 15, 2017 16:43:23.43 1487157203404	addons.repository	WARN	Search failed when repopulating cache
+Feb 15, 2017 16:43:23.60 1487157203574	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 16:43:23.60 1487157203577	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 16:43:23.60 1487157203579	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 16:43:23.60 1487157203580	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 16:43:23.61 1487157203581	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 16:43:23.61 1487157203582	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 16:43:23.61 1487157203585	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 16:43:23.61 1487157203586	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 16:43:23.62 1487157203598	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 16:43:23.65 1487157203621	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 15, 2017 16:43:23.65 1487157203623	addons.manager	WARN	Failed to update system addons: Error: Failed downloading XML, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:120:16) JS Stack trace: downloadXML/</fail@ProductAddonChecker.jsm:120:16
+Feb 15, 2017 16:45:24.41 *************************
+Feb 15, 2017 16:45:24.41 A coding exception was thrown and uncaught in a Task.
+Feb 15, 2017 16:45:24.42 
+Feb 15, 2017 16:45:24.42 Full message: TypeError: NetworkError when attempting to fetch resource.
+Feb 15, 2017 16:45:24.42 Full stack: 
+Feb 15, 2017 16:45:24.42 *************************
+Feb 15, 2017 17:11:47.18 
+Feb 15, 2017 17:11:47.22 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E008E,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E008E,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E008E,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.22 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.22 
+Feb 15, 2017 17:11:47.24 
+Feb 15, 2017 17:11:47.24 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.24 
+Feb 15, 2017 17:11:47.24 
+Feb 15, 2017 17:11:47.24 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.24 
+Feb 15, 2017 17:11:47.24 
+Feb 15, 2017 17:11:47.24 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.24 
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E008E,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E008E,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E008E,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.35 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:47.35 
+Feb 15, 2017 17:11:47.76 [Child 5080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 17:11:48.32 
+Feb 15, 2017 17:11:48.32 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.32 
+Feb 15, 2017 17:11:48.32 
+Feb 15, 2017 17:11:48.32 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.32 
+Feb 15, 2017 17:11:48.32 
+Feb 15, 2017 17:11:48.32 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.33 
+Feb 15, 2017 17:11:48.38 
+Feb 15, 2017 17:11:48.38 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.38 
+Feb 15, 2017 17:11:48.38 
+Feb 15, 2017 17:11:48.38 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.38 
+Feb 15, 2017 17:11:48.38 
+Feb 15, 2017 17:11:48.38 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.38 
+Feb 15, 2017 17:11:48.51 
+Feb 15, 2017 17:11:48.51 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.51 
+Feb 15, 2017 17:11:48.51 
+Feb 15, 2017 17:11:48.51 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.52 
+Feb 15, 2017 17:11:48.53 
+Feb 15, 2017 17:11:48.53 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.53 
+Feb 15, 2017 17:11:48.57 
+Feb 15, 2017 17:11:48.57 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.57 
+Feb 15, 2017 17:11:48.57 
+Feb 15, 2017 17:11:48.57 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.57 
+Feb 15, 2017 17:11:48.58 
+Feb 15, 2017 17:11:48.58 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.58 
+Feb 15, 2017 17:11:48.60 
+Feb 15, 2017 17:11:48.60 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E002A,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.60 
+Feb 15, 2017 17:11:48.61 
+Feb 15, 2017 17:11:48.61 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.61 
+Feb 15, 2017 17:11:48.61 
+Feb 15, 2017 17:11:48.61 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.61 
+Feb 15, 2017 17:11:48.61 
+Feb 15, 2017 17:11:48.61 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 15, 2017 17:11:48.61 

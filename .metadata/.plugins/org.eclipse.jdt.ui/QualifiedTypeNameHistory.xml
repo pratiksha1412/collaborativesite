@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.dao.ChatDAO"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.dao.BlogDAO"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.model.OutputMessage"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.model.Message"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.dao.EventDAO"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.util.FileUtil"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.dao.ForumDAO"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.dao.JobDAO"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.dao.JobApplicationDAO"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.dao.UserDAO"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.dao.FriendDAO"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.model.User"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.model.Blog"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.model.Job"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.model.JobApplication"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.model.Friend"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.model.Event"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.model.Chat"/>
+<fullyQualifiedTypeName name="com.niit.collaborationback.model.Forum"/>
+</qualifiedTypeNameHistroy>

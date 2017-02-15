@@ -1,0 +1,10 @@
+INDEX VERSION 1.3+D:\collaboration3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1902953076.index
+2061991876.index
+2683354347.index
+3847807944.index
+2195311115.index
+3774361573.index
+2893316849.index
+2418834102.index
+2942977870.index
